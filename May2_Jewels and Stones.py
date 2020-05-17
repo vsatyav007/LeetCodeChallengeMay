@@ -12,7 +12,7 @@
 
 # S and J will consist of letters and have length at most 50.
 # The characters in J are distinct.
-#pull check
+#pull check - as a contributor
 
 
 class Solution:
